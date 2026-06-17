@@ -3,10 +3,11 @@ $ whoami
 royxue
 
 $ cat about.txt
-Software Engineer. I build small, sharp tools that solve a real itch.
-Backend & systems in Go · data/ML tinkering in Python · dev tooling in TS.
+Entrepreneur working on AI & Robotics.
+I build intelligent machines for a living — and small, sharp tools for fun.
+Everything open-sourced here is a side project: utilities that scratch a real itch.
 
-$ ls ~/projects --sort=stars
+$ ls ~/side-projects --sort=stars
 obsidian-things3-sync/   # ⭐100  Sync tasks between Obsidian & Things 3
 dida365-cli/             #   滴答清单 CLI, native 中文 support
 ippe-py/                 #   Python port of IPPE pose estimation
@@ -18,7 +19,6 @@ coding since 2013
 $ contact --list
 github  https://github.com/royxue
 blog    https://royxue.github.io
-email   euxyor@gmail.com
 ```
 
 <div align="center">
